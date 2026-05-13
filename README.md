@@ -20,9 +20,9 @@ Study Mate AI ChatBot is an AI-powered learning assistant designed to help stude
 - AI-assisted development
 - PDF processing libraries
 
-#Project Objective
+#Project Objective:
 The goal of this project is to create a smart study assistant that helps students learn efficiently from their study materials.
 
-#Development
+#Development:
 This project was developed using Python, Google Colab, and AI-assisted development tools.
 
